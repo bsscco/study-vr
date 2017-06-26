@@ -43,5 +43,5 @@ Web
 # [VR View 샘플코드](https://developers.google.com/vr/android/samples/vrview)
 ### [샘플 다운로드](https://developers.google.com/vr/android/download)
 ### [Getting Started](https://developers.google.com/vr/android/get-started#start_your_own_project)
-[웹에서 돌려보기](http://storage.googleapis.com/vrview/index.html?image=)
+웹에서 돌려보기 : http://storage.googleapis.com/vrview/index.html?image=//<http:// 뺀 이미지 URL>
 
